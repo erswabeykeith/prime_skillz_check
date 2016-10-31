@@ -3,6 +3,9 @@
 // - side1
 // - side2
 // - base
+function triangle (side1, side2, base) {
+
+}
 // The object should have two functions
 // - area() returns the area of this triangle
 // - perimeter() returns the perimeter of this triangle

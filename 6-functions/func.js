@@ -1,6 +1,8 @@
 // 1 - Write a function declaration
 // that takes no arguments and
 // returns the value 4
+function four()
+  return 4;
 
 // 2 - Write a function declaration
 // that takes two arguments and
